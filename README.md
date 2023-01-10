@@ -8,7 +8,7 @@
 kube-state-metrics (KSM) is a simple service that listens to the Kubernetes API
 server and generates metrics about the state of the objects. (See examples in
 the Metrics section below.) It is not focused on the health of the individual
-Kubernetes components, but rather on the health of the various objects inside,
+Kubernetes components, but rather on the health of the various objects inside,  23
 such as deployments, nodes and pods.
 
 kube-state-metrics is about generating metrics from Kubernetes API objects
